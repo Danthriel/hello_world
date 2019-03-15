@@ -1,3 +1,4 @@
 # hello_world
-first repository\n
+first repository
+
 you can write stuff here
